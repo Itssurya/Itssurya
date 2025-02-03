@@ -23,11 +23,11 @@
 
 ![Itssurya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itssurya&theme=vue-dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=tokyonight)](https://github.com/Itssurya/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itssurya&layout=pie&theme=tokyonight)](https://github.com/Itssurya/github-readme-stats)
 
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Itssurya&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
