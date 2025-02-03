@@ -19,11 +19,11 @@
 <!--- ⚡ Fun fact ****-->
 <div align="center" style="display:flex;justify-content:space-between;align:center;"> 
 
-![tzktz's GitHub stats](https://github-readme-stats.vercel.app/api?username=tzktz&show_icons=true&theme=tokyonight&rank_icon=github)
+![Itssurya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Itssurya&show_icons=true&theme=tokyonight&rank_icon=github)
 
-![tzktz's Streak](https://github-readme-streak-stats.herokuapp.com/?user=tzktz&theme=vue-dark&hide_border=true)
+![Itssurya's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Itssurya&theme=vue-dark&hide_border=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=tokyonight)](https://github.com/tzktz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie&theme=tokyonight)](https://github.com/Itssurya/github-readme-stats)
 
 
 
